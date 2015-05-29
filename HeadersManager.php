@@ -9,4 +9,5 @@ static function addH2($text){
 	echo "<h2>".$text."</h2>";
 	
 }
+
 }
